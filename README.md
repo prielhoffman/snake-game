@@ -19,7 +19,7 @@ This project is a simple implementation of the classic Snake Game using Python's
 2. **Navigate to the project folder:**
   ```bash
    cd snake-game
-```
+   ```
 
 3. **Run the game:**
    ```bash
