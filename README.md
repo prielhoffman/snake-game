@@ -14,14 +14,17 @@ This project is a simple implementation of the classic Snake Game using Python's
 1. **Clone the repository:**
    ```bash
    git clone https://github.com/yourusername/snake-game.git
+   ```
 
 2. **Navigate to the project folder:**
   ```bash
    cd snake-game
+```
 
 3. **Run the game:**
    ```bash
    python main.py
+   ```
 
 ## 🎮 Controls
 
