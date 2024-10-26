@@ -32,3 +32,12 @@ This project is a simple implementation of the classic Snake Game using Python's
 * **Down Arrow** - Move down.
 * **Left Arrow** - Move left.
 * **Right Arrow** - Move right.
+
+
+## License
+
+This project is open-source and available under the MIT License.
+
+## Acknowledgements
+
+Inspired by Angela Yu’s course on Python development ("100 Days of Code: The Complete Python Pro Bootcamp" on Udemy).
